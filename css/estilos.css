@@ -4,6 +4,16 @@ font-family:   'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: rgb(30, 13, 61);
 
 }
+
+#cabacera{
+
+    background: greenyellow;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+    font-weight: bolder;
+    margin: 0;
+    padding: 0.5em;
+}
 #container 
 {
 width: 70%;
@@ -15,4 +25,15 @@ margin: 0 auto;
 #container h1 {
 font-size: 20px;
 
+}
+
+#post{
+
+
+}
+
+#cabacera #tagline{
+    padding:  1em 0 0 0;
+font-weight: normal;
+font-size: 0.8em;
 }
