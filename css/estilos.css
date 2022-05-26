@@ -1,0 +1,18 @@
+body{
+text-align: left;
+font-family:   'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(30, 13, 61);
+
+}
+#container 
+{
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1px solid #DDD;
+margin: 0 auto;
+}
+#container h1 {
+font-size: 20px;
+
+}
