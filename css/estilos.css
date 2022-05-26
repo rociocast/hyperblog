@@ -1,23 +1,15 @@
 body{
 text-align: left;
 font-family:  'Times New Roman', Times, serif;
-<<<<<<< HEAD
-color: rgb(71, 64, 0);
-=======
-color: rgb(209, 24, 24);
->>>>>>> cabacera
+color: rgb(19, 14, 14);
 
 }
 
 #cabacera{
 
-<<<<<<< HEAD
-    background: rgb(255, 158, 47);
-=======
-    background: rgb(28, 41, 8);
->>>>>>> cabacera
+    background: rgb(210, 204, 216);
     box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
-    color: whitesmoke;
+    color: rgb(127, 15, 150);
     font-weight: bolder;
     margin: 0;
     padding: 0.5em;
